@@ -1,4 +1,6 @@
-Nome,Senha
-Breno Almeida,senha1
-João Mercedes,senha2
-Maria Eduarda,senha3
+Nome,Senha,Livro,Serie
+Breno Almeida,senha1,,
+João Mercedes,senha2,,
+Julia Vilaça,senha3,O Duque e Eu,1.0
+Willian Costa,senha1,,
+professor,senha1,,
